@@ -37,7 +37,7 @@ Student Examples
 
 These students, who took this class in Fall 2015, have shared their documentary photo projects. (Courtesy of the MIT students. Used with permission.)
 
-*   Michael Cheung: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Ideate, Model, Test (PDF - 14.7 MB)](/ans7870/21w/21w.749/s16/MIT21W_749S16_Michael.pdf)
+*   Michael Cheung: [Ideate, Model, Test (PDF - 14.7 MB)](/ans7870/21w/21w.749/s16/MIT21W_749S16_Michael.pdf)
 *   Peter Downs: [The Experimental Theater Company Presents](/ans7870/21w/21w.749/s16/projects/etc/)
 *   Marisa Nienberg: [Jay Scheib: MIT Theater Professor and Director](https://youtu.be/oB2Oov_UD_w)
 *   Elizabeth Zhang: ["It was a total coincidence." (PDF - 8.3MB)]({{< baseurl >}}/resources/mit21w_749s16_elizlowres)
